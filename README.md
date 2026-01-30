@@ -6,3 +6,7 @@
   CSE+AI+%26+ML+Student;
   Future+ML+Engineer" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
