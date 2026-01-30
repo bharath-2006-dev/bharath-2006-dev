@@ -9,4 +9,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?
+  username=YOUR_USERNAME&
+  show_icons=true&
+  theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?
+  i=python,cpp,java,git,github,linux,sklearn,tensorflow" />
+</p>
+
 
