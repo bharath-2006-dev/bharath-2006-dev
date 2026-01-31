@@ -1,82 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bharath</h1>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&size=24&duration=3000&pause=1000&
-  color=0A66C2&center=true&vCenter=true&width=650&
-  lines=CSE+Student+%7C+AI+%26+ML+Specialization;
-  Aspiring+Machine+Learning+Engineer;
-  Building+Smart+Systems+with+AI;
-  Open+to+Internship+Opportunities" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marupudi-bharath-3a3b82336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathmarupudi034@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bharath-2006-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bharath-2006-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-2006-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🧠 About Me
-- 🎓 4th Semester **CSE (AI & ML)** Student  
-- 🤖 Passionate about **Machine Learning, AI & Robotics**  
-- 🧑‍💻 Strong in **Python, ML algorithms & problem-solving**  
-- 🚀 Actively seeking **AI/ML Internship Opportunities**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bharath-2006-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?
-  i=python,cpp,java,git,github,linux,mysql,sklearn,tensorflow&perline=5" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bharath-2006-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=bharath-2006-dev&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-  username=bharath-2006-dev&
-  show_icons=true&
-  theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?
-  user=bharath-2006-dev&
-  theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?
-  username=bharath-2006-dev&
-  layout=compact&
-  theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/bharath-2006-dev/bharath-2006-dev/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharath-2006-dev&color=blue" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
