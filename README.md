@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Exploratory Data Analysis<br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with communicating <br>🌱 I’m currently learning machine learning <br>💬 Ask me about python(basics)<br>⚡ Fun fact I can't see world without glasses 👓 
+🔭 I’m currently working on Exploratory Data Analysis<br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with communicating <br>🌱 I’m currently learning machine learning <br>💬 Ask me about python(basics)<br>
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bharath-2006-dev&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
