@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Exploratory Data Analysis<br>👯I’m looking to collaborate on projects <br>🤝I’m looking for help with communicating <br>🌱I’m currently learning machine learning <br>💬 Ask me about python(basics)<br>
 
 
